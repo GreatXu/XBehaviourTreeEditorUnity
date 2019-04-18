@@ -1,0 +1,2 @@
+# XBehaviourTreeEditorUnity
+基于Unity的XBehaviourTree可读Json编辑器
